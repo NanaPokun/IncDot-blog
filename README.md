@@ -1,3 +1,15 @@
+This is a simple React App about Blog Posts
+All relevant files and source sode are located in the master branch of the repo.
+
+this project was built using create-react-app.
+
+To render all posts to the browser execute in terminal of the file directory;
+npm start //to start 
+npx json-server --watch data/db.json --port 8000 // to fetch all data from the json server
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
